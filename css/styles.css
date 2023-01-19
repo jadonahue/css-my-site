@@ -1,4 +1,11 @@
 /* Tags */
 body {
-    background-color: blue;
+    margin: 0px;
+}
+div {
+    background-color: #BBE1FA;
+}
+
+h1 {
+    margin-top: 0px;
 }
