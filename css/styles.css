@@ -1,18 +1,20 @@
 /* Tags */
 body {
-    margin: 0;
-    text-align: center;
     font-family: 'IBM Plex Sans', sans-serif;
+    text-align: center;
+    margin: 0;
 }
 
 h1 {
-    margin-top: 0;
-    font-family: 'Lobster', cursive;
-
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    
 }
 
 h2 {
     font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-size: 2.5rem;
 }
 
 h3 {
@@ -22,29 +24,34 @@ h3 {
 
 
 /* Classes */
-.top-container {
-    background-color: #BBE1FA;
-    position: relative;
-    padding-top: 100px;
-}
-
-.middle-container {
-    
-}
-
-.bottom-container {
-    
-}
 
 .bottom-cloud {
     position: absolute;
     left: 300px;
     bottom: 300px;
+    width: 10.9376rem;
+    height: auto;
 
 }
 
+
+.bottom-container {}
+
+
+.middle-container {}
+
+
 .top-cloud {
     position: absolute;
-    right: 300px;
+    right: 350px;
     top: 50px;
+    width: 10.9376rem;
+    height: auto;
+}
+
+
+.top-container {
+    background-color: #BBE1FA;
+    position: relative;
+    padding-top: 100px;
 }
