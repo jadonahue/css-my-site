@@ -1,4 +1,9 @@
 /* Tags */
+
+a {
+    color: #0F4C75;
+}
+
 body {
     font-family: 'IBM Plex Sans', sans-serif;
     text-align: center;
@@ -6,18 +11,22 @@ body {
 }
 
 h1 {
+    color: #3282B8;
     font-family: 'Dancing Script', cursive;
     font-size: 5.625rem;
     margin: 50px auto 0 auto;
-    
 }
 
+
 h2 {
+    color: #3282B8;
     font-family: 'IBM Plex Sans Condensed', sans-serif;
     font-size: 2.5rem;
+    font-weight: normal;
 }
 
 h3 {
+    color: #0F4C75;
     font-family: 'IBM Plex Sans Condensed', sans-serif;
 }
 
@@ -29,8 +38,8 @@ h3 {
     position: absolute;
     left: 300px;
     bottom: 200px;
-    width: 10.9376rem;
     height: auto;
+    width: 10.9376rem;
 
 }
 
@@ -49,10 +58,10 @@ h3 {
 
 .top-cloud {
     position: absolute;
-    right: 350px;
     top: 100px;
-    width: 10.9376rem;
+    right: 350px;
     height: auto;
+    width: 10.9376rem;
 }
 
 
