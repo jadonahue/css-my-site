@@ -68,10 +68,10 @@ p {
 .bottom-cloud {
     position: absolute;
     left: 300px;
-    bottom: 200px;
+    bottom: 150px;
     height: auto;
     width: 10.9376rem;
-
+    z-index: 1;
 }
 
 
@@ -146,9 +146,10 @@ p {
 
 
 .mountains {
+    position: relative;
     width: 400px;
     height: auto;
-
+    z-index: 2;
 }
 
 
