@@ -28,7 +28,7 @@ h3 {
 .bottom-cloud {
     position: absolute;
     left: 300px;
-    bottom: 300px;
+    bottom: 200px;
     width: 10.9376rem;
     height: auto;
 
@@ -41,10 +41,16 @@ h3 {
 .middle-container {}
 
 
+.mountains {
+    width: 400px;
+    height: auto;
+    
+}
+
 .top-cloud {
     position: absolute;
     right: 350px;
-    top: 50px;
+    top: 100px;
     width: 10.9376rem;
     height: auto;
 }
