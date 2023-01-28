@@ -1,5 +1,4 @@
 /* Tags */
-
 a {
     color: #BBE1FA;
     font-family: 'IBM Plex Sans Condensed', sans-serif;
@@ -57,9 +56,7 @@ p {
 
 
 /* Classes */
-
 /* Top Container */
-
 .top-container {
     background-color: #BBE1FA;
     position: relative;
@@ -109,7 +106,6 @@ p {
 
 
 /* Middle Container */
-
 .middle-container {
     margin: 100px 0;
 }
@@ -145,7 +141,6 @@ p {
 
 
 /* Bottom Container */
-
 .bottom-container {
     background-color: #3282B8;
     padding: 50px 0 25px;
