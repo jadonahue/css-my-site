@@ -58,10 +58,28 @@ p {
 
 /* Classes */
 
-.app-icon {
-    width: 25%;
-    float: left;
-    margin-right: 30px;
+/* Top Container */
+
+.top-container {
+    background-color: #BBE1FA;
+    position: relative;
+    padding-top: 100px;
+    height: 502px;
+    width: auto;
+}
+
+
+.top-cloud {
+    position: absolute;
+    top: 70px;
+    right: 350px;
+    height: auto;
+    width: 10.9376rem;
+}
+
+
+.underline {
+    text-decoration: underline;
 }
 
 
@@ -75,9 +93,68 @@ p {
 }
 
 
+.mountains {
+    position: relative;
+    width: 400px;
+    height: auto;
+    z-index: 2;
+}
+
+
+
+.intro-paragraph {
+    width: 30%;
+    margin: auto;
+}
+
+
+/* Middle Container */
+
+.middle-container {
+    margin: 100px 0;
+}
+
+
+.skill-row {
+    height: auto;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+
+.website-mountain-icon {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.game-console-icon {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+
+.app-icon {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+/* Bottom Container */
+
 .bottom-container {
     background-color: #3282B8;
     padding: 50px 0 25px;
+}
+
+
+.contact-me-paragraph {
+    width: 30%;
+    margin: 40px auto 60px auto;
 }
 
 
@@ -109,83 +186,14 @@ p {
     text-decoration: none;
 }
 
-
-.contact-me-paragraph {
-    width: 30%;
-    margin: 40px auto 60px auto;
-}
-
-.copyright {
-    color: #BBE1FA;
-    font-size: 0.75rem;
-    padding: 20px 0;
-}
-
 .footer-link {
     margin-left: 10px;
     margin-right: 10px;
 }
 
 
-.game-console-icon {
-    width: 25%;
-    float: right;
-    margin-right: 30px;
-}
-
-
-.intro-paragraph {
-    width: 30%;
-    margin: auto;
-}
-
-
-.middle-container {
-    margin: 100px 0;
-}
-
-
-.mountains {
-    position: relative;
-    width: 400px;
-    height: auto;
-    z-index: 2;
-}
-
-
-.skill-row {
-    height: auto;
-    width: 50%;
-    margin: 100px auto 100px auto;
-    text-align: left;
-}
-
-
-.top-cloud {
-    position: absolute;
-    top: 70px;
-    right: 350px;
-    height: auto;
-    width: 10.9376rem;
-}
-
-
-.top-container {
-    background-color: #BBE1FA;
-    position: relative;
-    padding-top: 100px;
-    height: 502px;
-    width: auto;
-}
-
-
-.underline {
-    text-decoration: underline;
-}
-
-
-.website-mountain-icon {
-    width: 25%;
-    float: left;
-    margin-right: 30px;
+.copyright {
+    color: #BBE1FA;
+    font-size: 0.75rem;
+    padding: 20px 0;
 }
