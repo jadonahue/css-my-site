@@ -1,3 +1,3 @@
 # css-my-site
 
-This is a website created while using HTML, CSS, etc.
+This is a responsive website created while using HTML & CSS.
